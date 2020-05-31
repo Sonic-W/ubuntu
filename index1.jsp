@@ -60,7 +60,7 @@ out.print("1-100的和为："+sum+"\n");
  
   <body>
   
-  	<br>这是我的第一个JSP页面 <br>
+  	<br>这是我的the newJSP页面 <br>
  
    
     <table>
